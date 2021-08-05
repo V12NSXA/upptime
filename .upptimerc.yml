@@ -15,7 +15,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.nochay.com
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/maste
+  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/mast
   name: NoChay-Status
   introTitle: "Aktuller System-Status:"
   navbar:
