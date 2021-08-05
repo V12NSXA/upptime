@@ -7,6 +7,8 @@ sites:
     url: https://nochay.com
   - name: KVM-1
     url: http://157.90.184.234
+  - name: KVM-2
+    url: http://87.118.126.170
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
